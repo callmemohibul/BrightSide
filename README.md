@@ -1,7 +1,24 @@
-# BrightSide  ·  *v0.1* (first public release)
+<div align="center">
+
+[![Version](https://img.shields.io/badge/version-v0.1-orange?style=for-the-badge)](#)
+[![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blueviolet?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
+
+<picture>
+    <!-- Dark-mode logo (if you have one) -->
+    <!-- <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.svg"> -->
+    <!-- Light-mode logo -->
+    <!-- <source media="(prefers-color-scheme: light)" srcset="docs/assets/logo-light.svg"> -->
+    <img alt="BrightSide logo" height="120" src="docs/assets/logo-light.svg">
+</picture>
+
+<h4>BrightSide mirrors Ubuntu’s built-in brightness slider to your external monitor&nbsp;via DDC/CI.</h4>
+
+<p><em>First preview release – APIs may still change.  Feedback & PRs welcome!</em></p>
+
+</div>
 
 > **NOTE**  
-> This is the **first preview release (v0.1)**.  The CLI/DBus API and installer
+> This is the **first preview release (v0.0.1)**.  The CLI/DBus API and installer
 > are subject to change.  Feedback and bug reports are highly appreciated!
 
 External-monitor brightness control that works **with Ubuntu’s default slider**.
