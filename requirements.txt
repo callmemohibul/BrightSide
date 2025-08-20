@@ -1,0 +1,10 @@
+# Python dependencies for BrightSide brightness control tools
+# Install with:  pip install -r requirements.txt
+
+# Modern themed Tkinter widgets
+# Tested with 1.10.x but allow any compatible 1.x
+
+ttkbootstrap>=1.10,<2
+
+# Optional but recommended – enables PNG/JPG icons in Tkinter
+Pillow>=9.0

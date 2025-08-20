@@ -1,0 +1,54 @@
+# ---- BrightSide .gitignore ----------------------------------
+# Based on GitHub’s Python template with extras for this project
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Installer artefacts
+/opt/brightness_control_gui/
+
+# Logs & misc
+*.log
+*.pid
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Mac / Windows noise
+.DS_Store
+Thumbs.db
+
+# pytest cache
+debug.log
+.pytest_cache/
+
+# coverage reports
+htmlcov/
+.coverage*
+
+# mypy / pylint
+.mypy_cache/
+.pytype/
+
+# Binary archives
+*.zip
+*.tar.gz 
