@@ -18,7 +18,7 @@
 </div>
 
 > **NOTE**  
-> This is the **first preview release (v0.1)**.  The CLI/DBus API and installer
+> This is the **first preview release (v0.0.1)**.  The CLI/DBus API and installer
 > are subject to change.  Feedback and bug reports are highly appreciated!
 
 External-monitor brightness control that works **with Ubuntu’s default slider**.
